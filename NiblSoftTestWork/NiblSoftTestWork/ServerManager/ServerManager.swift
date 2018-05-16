@@ -1,10 +1,4 @@
-//
-//  ServerManager.swift
-//  Relax
-//
-//  Created by Macbook on 03.12.17.
-//  Copyright © 2017 MMM. All rights reserved.
-//
+
 
 import UIKit
 import Alamofire
