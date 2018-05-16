@@ -1,10 +1,4 @@
-//
-//  HistoryTableViewController.swift
-//  NiblSoftTestWork
-//
-//  Created by Kiryl Bukinevich on 4/18/18.
-//  Copyright © 2018 Kiryl Bukinevich. All rights reserved.
-//
+
 
 import UIKit
 import CoreData
