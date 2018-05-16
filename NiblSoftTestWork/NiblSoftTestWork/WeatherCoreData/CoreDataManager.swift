@@ -1,10 +1,4 @@
-//
-//  CoreDataManager.swift
-//  Private
-//
-//  Created by Macbook on 27.02.2018.
-//  Copyright © 2018 Macbook. All rights reserved.
-//
+
 
 
 import Foundation
